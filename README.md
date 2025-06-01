@@ -34,25 +34,25 @@ The Week 1 assignment focuses on exploratory data analysis (EDA) using the `Cars
 
 # How to Explore This Repository 🔎
 
-1. Clone the Repository:
+1. **Clone the Repository:**
 
    ```
    git clone https://github.com/your-username/summer-analytics-2025-week1.git
    ```
 
-2. Open the Notebook: Launch Jupyter Notebook and open `Week1_Assignment.ipynb`.
+2. **Open the Notebook:** Launch Jupyter Notebook and open `Week1_Assignment.ipynb`.
 
    ```
    jupyter notebook
    ```
 
-3. Ensure Dependencies: Make sure you have the required libraries installed:
+3. **Ensure Dependencies:** Make sure you have the required libraries installed
 
    ```
-   pip install pandas numpy matplotlib
+   pip install pandas numpy matplotlib seaborn
    ```
 
-4. Run the Code: Execute the cells in the notebook to see my solutions in action! The `Cars.csv` dataset should be in the same directory as the notebook. 🖥️
+4. **Run the Code:** Execute the cells in the notebook to see my solutions in action! The `Cars.csv` dataset should be in the same directory as the notebook. 🖥️
 
 # Challenges and Learnings 🧠
 
@@ -73,7 +73,7 @@ I’m excited to continue this **5-week adventure**, building on these skills to
 
 # Acknowledgments 🙏
 
-A huge thanks to the Consulting & Analytics Club, IIT Guwahati, for organizing Summer Analytics 2025 and providing this incredible learning opportunity. Special shoutout to Team C&A for their guidance and support! 🥳
+A huge thanks to **the Consulting & Analytics Club, IIT Guwahati**, for organizing Summer Analytics 2025 and providing this incredible learning opportunity. Special shoutout to Team C&A for their guidance and support! 🥳
 
 # Contact Me 📬
 Feel free to reach out at sujayd.ug2025@gmail.com, if you have questions about my submission or want to collaborate on data science projects!
